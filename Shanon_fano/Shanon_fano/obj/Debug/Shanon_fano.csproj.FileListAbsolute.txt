@@ -1,0 +1,12 @@
+c:\users\jayed\documents\visual studio 2012\Projects\Shanon_fano\Shanon_fano\bin\Debug\Shanon_fano.exe.config
+c:\users\jayed\documents\visual studio 2012\Projects\Shanon_fano\Shanon_fano\obj\Debug\Shanon_fano.csprojResolveAssemblyReference.cache
+c:\users\jayed\documents\visual studio 2012\Projects\Shanon_fano\Shanon_fano\bin\Debug\Shanon_fano.exe
+c:\users\jayed\documents\visual studio 2012\Projects\Shanon_fano\Shanon_fano\bin\Debug\Shanon_fano.pdb
+c:\users\jayed\documents\visual studio 2012\Projects\Shanon_fano\Shanon_fano\obj\Debug\Shanon_fano.exe
+c:\users\jayed\documents\visual studio 2012\Projects\Shanon_fano\Shanon_fano\obj\Debug\Shanon_fano.pdb
+C:\Users\Jayed\Music\Documents\Visual Studio 2012\Projects\Shanon_fano\Shanon_fano\bin\Debug\Shanon_fano.exe.config
+C:\Users\Jayed\Music\Documents\Visual Studio 2012\Projects\Shanon_fano\Shanon_fano\obj\Debug\Shanon_fano.exe
+C:\Users\Jayed\Music\Documents\Visual Studio 2012\Projects\Shanon_fano\Shanon_fano\obj\Debug\Shanon_fano.pdb
+C:\Users\Jayed\Music\Documents\Visual Studio 2012\Projects\Shanon_fano\Shanon_fano\bin\Debug\Shanon_fano.exe
+C:\Users\Jayed\Music\Documents\Visual Studio 2012\Projects\Shanon_fano\Shanon_fano\bin\Debug\Shanon_fano.pdb
+C:\Users\Jayed\Music\Documents\Visual Studio 2012\Projects\Shanon_fano\Shanon_fano\obj\Debug\Shanon_fano.csprojResolveAssemblyReference.cache
